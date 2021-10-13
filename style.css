@@ -1,0 +1,9 @@
+.container {
+  background-color: #c1f6ed;
+}
+.content {
+  background-color: rgb(204, 199, 199);
+}
+.container.content{
+  display: inline-block;
+}
